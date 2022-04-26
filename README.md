@@ -65,7 +65,7 @@ Decidimos filtrar as categorias com maiores despesas:
 
 ## 🔗 Links
 
-
+Para acessar os slides da apresentação [clique aqui](https://docs.google.com/presentation/d/1CCsMgET20F2iVtHFUklBdqr-gojXPfWgBSEAW6Jtb48/edit#slide=id.g1259bf1e703_0_8)
 
 
 
